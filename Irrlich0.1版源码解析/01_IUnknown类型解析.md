@@ -4,7 +4,7 @@
 
   **是很多类的基类，内部实现引用计数机制，对于计数器为0的对象会被自动删除，同时其子类继承该机制**。
 
-![](F:\GithubOpenSource\Records\Irrlich0.1版源码解析\images\iunknow.png)
+![](https://github.com/908760230/Records/blob/master/Irrlich0.1%E7%89%88%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/images/iunknow.png)
 
 
 
